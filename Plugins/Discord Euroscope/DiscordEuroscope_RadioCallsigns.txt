@@ -69,6 +69,7 @@ LTAT_APP Malatya Approach
 LTCC_APP Diyarbakir Approach
 LTFO_APP Artvin Approach
 LTBG_APP Bandirma Approach
+LTBG_TWR Bandirma Tower
 LTBA_TWR Yesilkoy Tower
 LTFM_TWR Istanbul Tower
 LTFM_1_TWR Istanbul Tower
