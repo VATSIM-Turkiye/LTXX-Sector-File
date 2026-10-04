@@ -327,6 +327,10 @@ PROFILE:LTBF_TWR:50:4
 ATIS2:Balikesir Tower
 ATIS3:Procedural Control for LTBF
 ATIS4:Info at vatsim.tr - Feedback at vatsim.tr/feedback
+PROFILE:LTBG_TWR:50:4
+ATIS2:Bandirma Tower
+ATIS3:Procedural Control for LTBG
+ATIS4:Info at vatsim.tr - Feedback at vatsim.tr/feedback
 PROFILE:LTBH_APP:150:5
 ATIS2:Canakkale Approach					
 ATIS3:ATC Service for LTBH					
