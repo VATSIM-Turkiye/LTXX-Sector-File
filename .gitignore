@@ -1,6 +1,6 @@
-ICAO
-NavData
-Other
+ICAO/
+NavData/
+Other/
 **/aeronav*
 Settings/VoiceChannels.txt
 Plugins/TopSky/Documentation
