@@ -219,7 +219,7 @@ Menu_MaxListItems=15
 Menu_ASP_MaxSpeed=350
 Menu_ASP_MinSpeed=140
 
-MSAW=0
+MSAW=1
 
 RDF_Mode=-1
 
