@@ -2,7 +2,7 @@
   "name": "LTBB",
   "id": "8ae6d343-4a69-4929-919f-b6df9b3bb06d",
   "updateUrl": "https://raw.githubusercontent.com/VATSIM-Turkiye/LTXX-Sector-File/refs/heads/main/Plugins/vATIS/vATIS%20Profile%20-%20LTBB.json",
-  "updateSerial": 2026100300,
+  "updateSerial": 2026101100,
   "stations": [
     {
       "id": "c75eb139-d062-4b1f-887b-f4451d8d57ec",
