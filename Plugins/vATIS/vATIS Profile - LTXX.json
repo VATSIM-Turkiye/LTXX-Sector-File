@@ -2,7 +2,7 @@
   "name": "LTXX",
   "id": "0b891745-f160-44f5-a5ef-ce49c42ea1b4",
   "updateUrl": "https://raw.githubusercontent.com/VATSIM-Turkiye/LTXX-Sector-File/refs/heads/main/Plugins/vATIS/vATIS%20Profile%20-%20LTXX.json",
-  "updateSerial": 2026112101,
+  "updateSerial": 2026112102,
   "stations": [
     {
       "id": "8b753578-b3c6-4497-8d4f-bccb1859a507",
@@ -123722,7 +123722,7 @@
           "name": "SOUTH TRIPLE PARALLEL",
           "airportConditions": "",
           "notams": "",
-          "template": "[FACILITY] DEP ATIS [ATIS_CODE] \r\n[OBS_TIME] DEP RWYS 16R 17R AND 19\r\n\r\n[WIND] [TL] [VIS] [CLOUDS] [PRESENT_WX] [TEMP] [DEW] [PRESSURE] [TREND] [RVR] [RECENT_WX]\r\n\r\n[NOTAMS] \r\n\r\n@RECIEVE DEP CLNC VIA DATALINK ON @ACARS\r\n\r\n[ARPT_COND] SIMUL INDEPENDENT TRIPLE PARL DEP OPERATION INPR.\r\n\r\n[CLOSING]",
+          "template": "[FACILITY] DEP ATIS [ATIS_CODE] \r\n[OBS_TIME] DEP RWYS 16R 17R AND 18\r\n\r\n[WIND] [TL] [VIS] [CLOUDS] [PRESENT_WX] [TEMP] [DEW] [PRESSURE] [TREND] [RVR] [RECENT_WX]\r\n\r\n[NOTAMS] \r\n\r\n@RECIEVE DEP CLNC VIA DATALINK ON @ACARS\r\n\r\n[ARPT_COND] SIMUL INDEPENDENT TRIPLE PARL DEP OPERATION INPR.\r\n\r\n[CLOSING]",
           "externalGenerator": {
             "enabled": false,
             "textUrl": "",
